@@ -14,5 +14,5 @@ copy `plot_bcw.sh` into your <baroclinic_wave_<compiler> run directory.
 To run the scripts, invoke from the command line via `./plot_<bcw/cape>.sh`. 
 
 Users can adjust the experiment name, standard pressure level, and forecast hour in the baroclinic wave script. 
-For the CAPE script, users can choose between global/regional(CONUS) domain, as well as which 
+For the CAPE script, users can choose between global/regional(CONUS) domain, as well as which GFS
 analysis file resolution to generate plots for.
